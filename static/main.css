@@ -1,0 +1,56 @@
+body {
+  background: #fff;
+  font-family: sans-serif;
+  color: #333;
+  padding: 40px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+input, select, textarea, button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background: #003366;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0055aa;
+}
+
+.btn-group {
+  display: flex;
+  gap: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+th {
+  background-color: #003366;
+  color: white;
+}

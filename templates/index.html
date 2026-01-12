@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Letter to Governor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <div id="step-1" class="step">
+            <h2>Step 1: Your Info</h2>
+            <input id="user-fname" placeholder="First Name" />
+            <input id="user-lname" placeholder="Last Name" />
+            <button onclick="nextStep(2)">Next</button>
+        </div>
+
+        <div id="step-2" class="step hidden">
+            <h2>Step 2: Choose Your Locality</h2>
+            <select id="locality-select" onchange="updateOfficials()"></select>
+
+            <div id="official-wrapper" class="hidden">
+                <h3>Select Your Representative</h3>
+                <select id="official-select"></select>
+                <button onclick="nextStep(3)">Next</button>
+            </div>
+        </div>
+
+
+
+        <div id="step-3" class="step hidden">
+            <h2>Step 3: Customize Letter</h2>
+            <p id="form-note" class="info-note hidden">
+                This representative uses a contact form. Your message will be copied and you’ll be redirected.
+            </p>
+
+            <textarea id="letter-box" rows="10"></textarea>
+            <div class="btn-group">
+                <button onclick="copyText()">Copy Text</button>
+                <button onclick="prefillEmail()">Pre-Fill Email</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+</body>
+
+</html>

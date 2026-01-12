@@ -1,0 +1,268 @@
+{
+    "choices": [
+        "Make a choice...",
+        "Rose Lake",
+        "Wadena",
+        "Little Canada",
+        "Minneapolis (Richfield)",
+        "Kite Street",
+        "Mount Horeb"
+    ],
+    "officials": [
+        {
+            "choice": "Rose Lake",
+            "city": "Frazee, MN",
+            "first_name": "Tom",
+            "last_name": "Murphy",
+            "contact_type": "email",
+            "email": "rep.tom.murphy@house.mn.gov",
+            "represents": "the MN House - 09B"
+        },
+        {
+            "choice": "Rose Lake",
+            "city": "Frazee, MN",
+            "first_name": "Jordan",
+            "last_name": "Rasmusson",
+            "contact_type": "webform",
+            "contact_url": "https://www.senate.mn/members/email-form/1255",
+            "represents": "the MN Senate - 09"
+        },
+        {
+            "choice": "Rose Lake",
+            "city": "Frazee, MN",
+            "first_name": "Michelle",
+            "last_name": "Fischbach",
+            "contact_type": "webform",
+            "contact_url": "https://fischbach.house.gov/contact",
+            "represents": "the U.S. House - 7"
+        },
+        {
+            "choice": "Rose Lake",
+            "city": "Frazee, MN",
+            "first_name": "Amy",
+            "last_name": "Klobuchar",
+            "represents": "the U.S. Senate",
+            "contact_type": "webform",
+            "contact_url": "https://www.klobuchar.senate.gov/public/index.cfm/email-amy"
+        },
+        {
+            "choice": "Rose Lake",
+            "city": "Frazee, MN",
+            "first_name": "Tina",
+            "last_name": "Smith",
+            "contact_type": "webform",
+            "contact_url": "https://www.smith.senate.gov/share-your-opinion/",
+            "represents": "the U.S. Senate"
+        },
+        {
+            "choice": "Wadena",
+            "city": "Wadena, MN",
+            "first_name": "Mike",
+            "last_name": "Wiener",
+            "contact_type": "email",
+            "email": "rep.mike.wiener@house.mn.gov",
+            "represents": "the MN House - 05B"
+        },
+        {
+            "choice": "Wadena",
+            "city": "Wadena, MN",
+            "first_name": "Paul",
+            "last_name": "Utke",
+            "contact_type": "email",
+            "email": "sen.paul.utke@mnsenate.gov",
+            "represents": "the MN Senate - 05"
+        },
+        {
+            "choice": "Wadena",
+            "city": "Wadena, MN",
+            "first_name": "Michelle",
+            "last_name": "Fischbach",
+            "contact_type": "webform",
+            "contact_url": "https://fischbach.house.gov/contact",
+            "represents": "the U.S. House - 7"
+        },
+        {
+            "choice": "Wadena",
+            "city": "Wadena, MN",
+            "first_name": "Amy",
+            "last_name": "Klobuchar",
+            "represents": "the U.S. Senate",
+            "contact_type": "webform",
+            "contact_url": "https://www.klobuchar.senate.gov/public/index.cfm/email-amy"
+        },
+        {
+            "choice": "Wadena",
+            "city": "Wadena, MN",
+            "first_name": "Tina",
+            "last_name": "Smith",
+            "contact_type": "webform",
+            "contact_url": "https://www.smith.senate.gov/share-your-opinion/",
+            "represents": "the U.S. Senate"
+        },
+        {
+            "choice": "Little Canada",
+            "city": "Little Canada, MN",
+            "first_name": "Peter",
+            "last_name": "Fischer",
+            "contact_type": "email",
+            "email": "rep.peter.fischer@house.mn.gov",
+            "represents": "the MN House - 44A"
+        },
+        {
+            "choice": "Little Canada",
+            "city": "Little Canada, MN",
+            "first_name": "Tou",
+            "last_name": "Xiong",
+            "contact_type": "webform",
+            "contact_url": "https://www.senate.mn/members/email-form/1267",
+            "represents": "the MN Senate - 44"
+        },
+        {
+            "choice": "Little Canada",
+            "city": "Little Canada, MN",
+            "first_name": "Betty",
+            "last_name": "McCollum",
+            "contact_type": "webform",
+            "contact_url": "https://mccollum.house.gov/address_authentication?form=/contact/email",
+            "represents": "the U.S. House - 4"
+        },
+        {
+            "choice": "Little Canada",
+            "city": "Little Canada, MN",
+            "first_name": "Amy",
+            "last_name": "Klobuchar",
+            "email": "klobuchar.senate.gov",
+            "represents": "the U.S. Senate",
+            "contact_type": "webform",
+            "contact_url": "https://www.klobuchar.senate.gov/public/index.cfm/email-amy"
+        },
+        {
+            "choice": "Little Canada",
+            "city": "Little Canada, MN",
+            "first_name": "Tina",
+            "last_name": "Smith",
+            "contact_type": "webform",
+            "contact_url": "https://www.smith.senate.gov/share-your-opinion/",
+            "represents": "the U.S. Senate"
+        },
+        {
+            "choice": "Minneapolis (Richfield)",
+            "city": "Richfield, MN",
+            "first_name": "Jamie",
+            "last_name": "Long",
+            "contact_type": "email",
+            "email": "rep.jamie.long@house.mn.gov",
+            "represents": "the MN House - 61B"
+        },
+        {
+            "choice": "Minneapolis (Richfield)",
+            "city": "Richfield, MN",
+            "first_name": "D. Scott",
+            "last_name": "Dibble",
+            "contact_type": "webform",
+            "contact_url": "https://www.senate.mn/members/email-form/1010",
+            "represents": "the MN Senate - 61"
+        },
+        {
+            "choice": "Minneapolis (Richfield)",
+            "city": "Richfield, MN",
+            "first_name": "Ilhan",
+            "last_name": "Omar",
+            "contact_type": "webform",
+            "contact_url": "https://omar.house.gov/address_authentication?form=/contact/email-me",
+            "represents": "the U.S. House - 5"
+        },
+        {
+            "choice": "Minneapolis (Richfield)",
+            "city": "Richfield, MN",
+            "first_name": "Amy",
+            "last_name": "Klobuchar",
+            "email": "klobuchar.senate.gov",
+            "represents": "the U.S. Senate",
+            "contact_type": "webform",
+            "contact_url": "https://www.klobuchar.senate.gov/public/index.cfm/email-amy"
+        },
+        {
+            "choice": "Minneapolis (Richfield)",
+            "city": "Richfield, MN",
+            "first_name": "Tina",
+            "last_name": "Smith",
+            "contact_type": "webform",
+            "contact_url": "https://www.smith.senate.gov/share-your-opinion/",
+            "represents": "the U.S. Senate"
+        },
+        {
+            "choice": "Kite Street",
+            "city": "Isle, MN",
+            "first_name": "Ron",
+            "last_name": "Kresha",
+            "contact_type": "email",
+            "email": "rep.ron.kresha@house.mn.gov",
+            "represents": "the MN House - 10A"
+        },
+        {
+            "choice": "Kite Street",
+            "city": "Isle, MN",
+            "first_name": "Nathan",
+            "last_name": "Wesenberg",
+            "contact_type": "email",
+            "email": "sen.nathan.wesenberg@mnsenate.gov",
+            "represents": "the MN Senate - 10"
+        },
+        {
+            "choice": "Kite Street",
+            "city": "Isle, MN",
+            "first_name": "Pete",
+            "last_name": "Stauber",
+            "contact_type": "webform",
+            "contact_url": "https://stauber.house.gov/contact/email-me",
+            "represents": "the U.S. House - 8"
+        },
+        {
+            "choice": "Kite Street",
+            "city": "Isle, MN",
+            "first_name": "Amy",
+            "last_name": "Klobuchar",
+            "email": "klobuchar.senate.gov",
+            "represents": "the U.S. Senate",
+            "contact_type": "webform",
+            "contact_url": "https://www.klobuchar.senate.gov/public/index.cfm/email-amy"
+        },
+        {
+            "choice": "Kite Street",
+            "city": "Isle, MN",
+            "first_name": "Tina",
+            "last_name": "Smith",
+            "contact_type": "webform",
+            "contact_url": "https://www.smith.senate.gov/share-your-opinion/",
+            "represents": "the U.S. Senate"
+        },
+        {
+            "choice": "Mount Horeb",
+            "city": "Mount Horeb, WI",
+            "first_name": "Tammy",
+            "last_name": "Baldwin",
+            "contact_type": "webform",
+            "contact_url": "https://www.baldwin.senate.gov/contact/contact-tammy",
+            "represents": "the U.S. Senate"
+        },
+        {
+            "choice": "Mount Horeb",
+            "city": "Mount Horeb, WI",
+            "first_name": "Ron",
+            "last_name": "Johnson",
+            "contact_type": "webform",
+            "contact_url": "https://www.ronjohnson.senate.gov/email-the-senator",
+            "represents": "the U.S. Senate"
+        },
+        {
+            "choice": "Mount Horeb",
+            "city": "Mount Horeb, WI",
+            "first_name": "Mark",
+            "last_name": "Pocan",
+            "contact_type": "webform",
+            "contact_url": "https://pocan.house.gov/address_authentication?form=/contact/contact-my-team",
+            "represents": "the U.S. House"
+        }
+    ]
+}
